@@ -5,5 +5,6 @@
 - [x] 03 CSS Variables + JS
 - [x] 04 JS Array Cardio Practice
 - [x] 05 Flexbox + Javascript Image Gallery
+- [x] 06 Ajax Type Ahead with fetch
 
 유튜브 https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH 동영상 따라하기
