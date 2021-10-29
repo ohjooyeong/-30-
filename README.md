@@ -8,5 +8,6 @@
 - [x] 06 Ajax Type Ahead with fetch
 - [x] 07 JS Array Cardio Practice 02
 - [x] 08 Fun with HTML5 Canvas
+- [x] Must Know Chrome Dev Tools Tricks
 
 유튜브 https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH 동영상 따라하기
