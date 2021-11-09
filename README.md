@@ -12,5 +12,6 @@
 - [x] 10 Hold Shift and Check Checkboxes
 - [x] 11 Custom Video Player
 - [x] 12 KONAMI CODE
+- [x] 13 Slider In on scroll
 
 유튜브 https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH 동영상 따라하기
