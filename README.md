@@ -13,5 +13,6 @@
 - [x] 11 Custom Video Player
 - [x] 12 KONAMI CODE
 - [x] 13 Slider In on scroll
+- [x] 14 JS References VS Copy
 
 유튜브 https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH 동영상 따라하기
