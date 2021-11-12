@@ -14,5 +14,6 @@
 - [x] 12 KONAMI CODE
 - [x] 13 Slider In on scroll
 - [x] 14 JS References VS Copy
+- [x] 15 How LocalStorage and Event Delegation work
 
 유튜브 https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH 동영상 따라하기
