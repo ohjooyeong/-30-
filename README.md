@@ -17,5 +17,6 @@
 - [x] 15 How LocalStorage and Event Delegation work
 - [x] 16 Mouse Move Shadow
 - [x] 17 Sorting Band Names without articles
+- [x] 18 How JavaScript's Array Reduce Works
 
   유튜브 https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH 동영상 따라하기
